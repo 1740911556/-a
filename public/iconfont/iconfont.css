@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1646018017258') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qipao:before {
+  content: "\f0062";
+}
+
+.icon-tupaopao:before {
+  content: "\e61f";
+}
+
